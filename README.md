@@ -14,7 +14,6 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
 git clone https://github.com/phanithota05/personal-finance-tracker.git
-Navigate to the project directory:
 
 2.cd personal-finance-tracker
 
