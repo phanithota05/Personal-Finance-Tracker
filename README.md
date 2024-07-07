@@ -15,21 +15,17 @@ To run this project locally, follow these steps:
 **1.Clone the repository:**
 git clone https://github.com/phanithota05/personal-finance-tracker.git
 
-2.cd personal-finance-tracker
+**2.cd personal-finance-tracker**
 
-3.npm install
+**3.npm install**
 
-4.**Set up Firebase:**
+**4.Set up Firebase:**
 
 Create a Firebase project at Firebase Console.
 
 Add a web app to your Firebase project.
 
 Copy the Firebase config object and replace the placeholders in src/firebase.js with your Firebase project details.
-
-Start the development server:
-
-npm start
 
 Your application should now be running on http://localhost:3000.
 
